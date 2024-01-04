@@ -11,3 +11,6 @@
 [submodule "Celebrity-Classification"]
 	path = Celebrity-Classification
 	url = git@github.com:izam-mohammed/Celebrity-Classification.git
+[submodule "Wine-Quality-Prediction"]
+	path = Wine-Quality-Prediction
+	url = git@github.com:izam-mohammed/Wine-Quality-Prediction.git
