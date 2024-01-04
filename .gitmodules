@@ -1,0 +1,4 @@
+[submodule "Customer-Churn"]
+	path = Customer-Churn
+	url = git@github.com:izam-mohammed/Customer-Churn.git
+	branch = main
