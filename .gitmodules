@@ -2,3 +2,6 @@
 	path = Customer-Churn
 	url = git@github.com:izam-mohammed/Customer-Churn.git
 	branch = main
+[submodule "Mumbai-Home-Price"]
+	path = Mumbai-Home-Price
+	url = git@github.com:izam-mohammed/Mumbai-Home-Price.git
