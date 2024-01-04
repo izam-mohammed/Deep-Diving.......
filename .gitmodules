@@ -5,3 +5,6 @@
 [submodule "Mumbai-Home-Price"]
 	path = Mumbai-Home-Price
 	url = git@github.com:izam-mohammed/Mumbai-Home-Price.git
+[submodule "Student-Score-Prediction"]
+	path = Student-Score-Prediction
+	url = git@github.com:izam-mohammed/Student-Score-Prediction.git
