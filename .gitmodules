@@ -8,3 +8,6 @@
 [submodule "Student-Score-Prediction"]
 	path = Student-Score-Prediction
 	url = git@github.com:izam-mohammed/Student-Score-Prediction.git
+[submodule "Celebrity-Classification"]
+	path = Celebrity-Classification
+	url = git@github.com:izam-mohammed/Celebrity-Classification.git
