@@ -23,3 +23,6 @@
 [submodule "GemInsights"]
 	path = GemInsights
 	url = git@github.com:izam-mohammed/GemInsights.git
+[submodule "Loan-Prediction-System"]
+	path = Loan-Prediction-System
+	url = git@github.com:izam-mohammed/Loan-Prediction-System.git
