@@ -26,3 +26,6 @@
 [submodule "Loan-Prediction-System"]
 	path = Loan-Prediction-System
 	url = git@github.com:izam-mohammed/Loan-Prediction-System.git
+[submodule "Customer-Satisfaction-MLOps"]
+	path = Customer-Satisfaction-MLOps
+	url = git@github.com:izam-mohammed/Customer-Satisfaction-MLOps.git
