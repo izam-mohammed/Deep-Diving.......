@@ -14,3 +14,6 @@
 [submodule "Wine-Quality-Prediction"]
 	path = Wine-Quality-Prediction
 	url = git@github.com:izam-mohammed/Wine-Quality-Prediction.git
+[submodule "Sentiment-Analysis"]
+	path = Sentiment-Analysis
+	url = git@github.com:izam-mohammed/Sentiment-Analysis.git
