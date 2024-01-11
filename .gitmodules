@@ -44,3 +44,6 @@
 [submodule "Image-classifier-CNN"]
 	path = Image-classifier-CNN
 	url = git@github.com:izam-mohammed/Image-classifier-CNN.git
+[submodule "PDF-chatbot"]
+	path = PDF-chatbot
+	url = git@github.com:izam-mohammed/PDF-chatbot.git
