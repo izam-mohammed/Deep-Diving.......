@@ -32,3 +32,6 @@
 [submodule "Legal-Advisor-LLM"]
 	path = Legal-Advisor-LLM
 	url = git@github.com:izam-mohammed/Legal-Advisor-LLM.git
+[submodule "Stock-Prediction-RNN"]
+	path = Stock-Prediction-RNN
+	url = git@github.com:izam-mohammed/Stock-Prediction-RNN.git
