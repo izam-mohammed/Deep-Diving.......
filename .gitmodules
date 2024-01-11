@@ -47,3 +47,6 @@
 [submodule "PDF-chatbot"]
 	path = PDF-chatbot
 	url = git@github.com:izam-mohammed/PDF-chatbot.git
+[submodule "Fake-News-Detection"]
+	path = Fake-News-Detection
+	url = git@github.com:izam-mohammed/Fake-News-Detection.git
