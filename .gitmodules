@@ -50,3 +50,6 @@
 [submodule "Fake-News-Detection"]
 	path = Fake-News-Detection
 	url = git@github.com:izam-mohammed/Fake-News-Detection.git
+[submodule "E-commerce-with-AI"]
+	path = E-commerce-with-AI
+	url = git@github.com:izam-mohammed/E-commerce-with-AI.git
