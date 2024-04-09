@@ -5,71 +5,54 @@ Welcome to my collection of mini projects! Below is a list of projects I've work
 ## Projects Overview 📝
 
 ### 1. Celebrity-Classification 👨‍🎤
-- [Link](https://github.com/izam-mohammed/Celebrity-Classification)
 - Description: A project focused on classifying images to identify celebrities.
 
 ### 2. Chicken-Disease-Classification-Project 🐔
-- [Link](https://github.com/izam-mohammed/Chicken-Disease-Classification-Project)
 - Description: Classifying chicken diseases using machine learning techniques.
 
 ### 3. Customer-Churn 📉
-- [Link](https://github.com/izam-mohammed/Customer-Churn)
 - Description: Analyzing customer churn behavior to improve retention strategies.
 
 ### 4. Customer-Satisfaction-MLOps 😊
-- [Link](https://github.com/izam-mohammed/Customer-Satisfaction-MLOps)
 - Description: Implementing MLOps techniques to enhance customer satisfaction analysis.
 
 ### 5. Fake-News-Detection 📰
-- [Link](https://github.com/izam-mohammed/Fake-News-Detection)
 - Description: Detecting fake news using natural language processing.
 
 ### 6. GemInsights 💎
-- [Link](https://github.com/izam-mohammed/GemInsights)
 - Description: Exploring insights in gem and jewelry industry data.
 
 ### 7. Image-classifier-CNN 🖼️
-- [Link](https://github.com/izam-mohammed/Image-classifier-CNN)
 - Description: Building an image classifier using Convolutional Neural Networks (CNN).
 
 ### 8. LLM-chatbot 🤖
-- [Link](https://github.com/izam-mohammed/LLM-chatbot)
 - Description: Developing a chatbot using language learning models (LLM).
 
 ### 9. Legal-Advisor-LLM ⚖️
-- [Link](https://github.com/izam-mohammed/Legal-Advisor-LLM)
 - Description: Providing legal advice using language learning models.
 
 ### 10. Loan-Prediction-System 💰
-- [Link](https://github.com/izam-mohammed/Loan-Prediction-System)
 - Description: Predicting loan approval status for financial institutions.
 
 ### 11. Mumbai-Home-Price 🏠
-- [Link](https://github.com/izam-mohammed/Mumbai-Home-Price)
 - Description: Analyzing home prices in Mumbai using machine learning.
 
 ### 12. PDF-chatbot 📄
-- [Link](https://github.com/izam-mohammed/PDF-chatbot)
 - Description: Building a chatbot for extracting information from PDF documents.
 
 ### 13. Sentiment-Analysis 😃
-- [Link](https://github.com/izam-mohammed/Sentiment-Analysis)
 - Description: Analyzing sentiment in text data using natural language processing.
 
 ### 14. Stock-Prediction-RNN 📈
-- [Link](https://github.com/izam-mohammed/Stock-Prediction-RNN)
 - Description: Predicting stock prices using Recurrent Neural Networks (RNN).
 
 ### 15. Student-Score-Prediction 🎓
-- [Link](https://github.com/izam-mohammed/Student-Score-Prediction)
 - Description: Predicting student scores based on various factors.
 
 ### 16. Text-Summarizer 📑
-- [Link](https://github.com/izam-mohammed/Text-Summarizer)
 - Description: Generating summaries for text documents using machine learning.
 
 ### 17. Wine-Quality-Prediction 🍷
-- [Link](https://github.com/izam-mohammed/Wine-Quality-Prediction)
 - Description: Predicting wine quality based on various features.
 
 ## Contribution 💡
